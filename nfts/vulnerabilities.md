@@ -1,0 +1,16 @@
+# NFT Vulnerabilities
+
+1. Insufficient ownership validation
+...
+
+2. Front-running attacks
+...
+
+3. Unauthorized token minting
+...
+
+4. Insecure metadata handling
+...
+
+5. Token ID reuse
+...

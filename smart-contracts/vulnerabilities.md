@@ -1,0 +1,19 @@
+# Smart Contract Vulnerabilities
+
+1. Reentrancy
+...
+
+2. Arithmetic overflows and underflows
+...
+
+3. Timestamp dependence
+...
+
+4. Unsafe delegate calls
+...
+
+5. Short address attack
+...
+
+6. Denial of service (DoS) attacks
+...

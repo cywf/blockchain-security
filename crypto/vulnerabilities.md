@@ -1,0 +1,16 @@
+# Cryptocurrency Vulnerabilities
+
+1. Double spending
+...
+
+2. Sybil attacks
+...
+
+3. Eclipse attacks
+...
+
+4. 51% attacks
+...
+
+5. Consensus algorithm vulnerabilities
+...
